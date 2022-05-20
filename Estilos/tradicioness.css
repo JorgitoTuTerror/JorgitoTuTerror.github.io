@@ -30,7 +30,7 @@ ul{
 }
 
 .lista li a{
-    background-color: rgb(78, 78, 186);
+    background-color: rgb(78, 182, 186);
     color: rgba(10, 10, 10, 0.679);
     text-decoration: none;
     padding: 20px 100px;
@@ -55,7 +55,7 @@ ul{
     position: relative;
 }
 
-.platos{
+.costumbres{
     color: rgb(79, 35, 141);
     font-size: 20px;
     background-color: rgba(152, 149, 155, 0.752);
@@ -69,6 +69,7 @@ ul{
 
 div.galeria{
     margin:10px 20px;
+
     float: right;
     width: 250px;
 }
@@ -77,12 +78,12 @@ div.galeria img{
     height: auto;
 }
 
-div.cordero{
+div.maori{
     background-color: rgba(0, 0, 0, 0.697);
     color: aliceblue;
     text-align: center;
     padding: 10px;
 }
 .subtitulo{
-    color: rgb(229, 255, 0);
+    color: rgb(64, 255, 0);
 }
